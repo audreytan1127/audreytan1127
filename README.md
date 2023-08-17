@@ -6,7 +6,7 @@
 
   
 <div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=audreytan1127&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=audreytan1127}&theme=tokyonight"/>
 </div>
 
 <!---
