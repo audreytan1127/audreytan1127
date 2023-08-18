@@ -1,4 +1,6 @@
-<div>
+
+![welcome to audrey tan's github](https://github.com/audreytan1127/audreytan1127/assets/134240345/ac06d86d-3a47-4dd8-b6bf-33dda64074a7)
+
   <h1> Contact Me! </h1>
   <a href="mailto:audrey.wanmun.tan@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
