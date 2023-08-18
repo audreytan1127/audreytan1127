@@ -6,7 +6,7 @@
   <a href="https://linktr.ee/first.generasian" target="_blank">
     <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/>
   </a>
-  <a href="www.linkedin.com/in/audrey-tan1127" target="_blank">
+  <a href="https://www.linkedin.com/in/audrey-tan1127" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
